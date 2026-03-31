@@ -11,7 +11,8 @@ import { GrInstagram } from "react-icons/gr";
 import {FaXTwitter} from "react-icons/fa6";
 import {FiYoutube} from "react-icons/fi";
 import ScrollToTop from "./ScrollToTop";
-import { BiSolidPhoneCall } from "react-icons/bi";
+import CallButton from "./CallButton";
+
 
 function Vale() {
 
@@ -111,18 +112,14 @@ function Vale() {
       </div>
 
       <div className="w-screen flex justify-center ">
-
         <span
           className={`transition-all ease-out w-screen flex justify-center
           ${show ? " opacity-100" : "opacity-0"} `}>
-          <div className=' flex w-8 h-8 md:w-15 md:h-15 rounded-full bg-red-600 justify-center items-center text-xl md:text-5xl mr-2 animate-pulse'><BiSolidPhoneCall/></div>
+          <CallButton/>
           <div className=" flex flex-col justify-center pb-5 text-xl md:text-5xl place-items-center"> +90 541 102 22 39
           <div className="w-40 h-1 md:h-2 rounded-full md:w-100 bg-black"></div>
        </div>
         </span>
-
-
-
       </div>
 
 
