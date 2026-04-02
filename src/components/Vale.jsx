@@ -179,7 +179,7 @@ function Vale() {
             </div>
 
             <div className="flex justify-center space-x-5 py-7">
-              <a href="https://x.com/vale_pratik" target='blank'><FaXTwitter className='border-b-2 font-bold tracking-wide hover:scale-150 hover:text-amber-50 duration-500 cursor-pointer mb-5 h-7 w-7'/></a>
+              <a href="https://x.com/valepratik06?s=21&t=--ir0QdXaO1fkbsS86L9SQ" target='blank'><FaXTwitter className='border-b-2 font-bold tracking-wide hover:scale-150 hover:text-amber-50 duration-500 cursor-pointer mb-5 h-7 w-7'/></a>
               <a href="https://www.instagram.com/vale.pratik/" target='blank'><GrInstagram className='border-b-2 font-bold tracking-wide hover:scale-150 hover:text-amber-50 duration-500 cursor-pointer mb-5 h-7 w-7'/></a>
               <a href="https://www.youtube.com/@Valepratik06" target='blank'><FiYoutube className='border-b-2 font-bold tracking-wide hover:scale-150 hover:text-amber-50 duration-500 cursor-pointer mb-5 h-7 w-7'/></a>
             </div>
